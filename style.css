@@ -1,4 +1,7 @@
 .header-material
 {
     /*going to center this*/
+    margin: auto;
+    width: 60%;
+    text-align: center;
 }
